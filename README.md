@@ -8,4 +8,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Bom
 
 
-[![XxBoomer GitHub stats](https://github-readme-stats.vercel.app/api?username=XxBoomer&show_icons=true&hide_border=true&theme=dracula)](https://github-readme-stats.vercel.app/api?username=XxBoomer&show_icons=true&hide_border=true&theme=dracula)
+[![XxBoomer GitHub stats](https://github-readme-stats.vercel.app/api?username=XxBoomer&count_private=true&include_all_commits=true&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=XxBoomer&count_private=true&include_all_commits=true&theme=tokyonight)
+[![XxBoomer GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=XxBoomer&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app/api/top-langs/?username=XxBoomer&layout=compact&theme=tokyonight)
