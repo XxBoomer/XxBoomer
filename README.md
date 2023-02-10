@@ -22,7 +22,7 @@
 
 ## About Me:
 
-Hi, This is Ankush a Blockchain-cum-Web Developer from India. I am passionate about Nextjs and Thirdweb. Always eager to connect with others :)
+It Empty
 ## Tools / Languages:
 
 These are the tools and languages that I have worked with and have experience about using them.
