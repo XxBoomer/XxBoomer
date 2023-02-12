@@ -14,7 +14,7 @@
   <a href="mailto:tntkhang123@gmail.com">
   <img align="left" alt=" Email" width="22px" src="https://www.iconsdb.com/icons/preview/white/email-xxl.png" />
 </a>
-<hr />
+<hr/>
 <br/>
 ## About Me:
 
