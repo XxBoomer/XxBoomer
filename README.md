@@ -18,7 +18,7 @@
 <br/>
 ## About Me:
 
-It Empty
+<img src="https://activity-graph.herokuapp.com/graph?username=miyufi&hide_border=true&bg_color=151515&color=fff&line=8a00f2&point=8a00f2&radius=30"/>
 ## Tools / Languages:
 
 These are the tools and languages that I have worked with and have experience about using them.
