@@ -17,8 +17,8 @@
 <hr/>
 <br/>
 ## About Me:
+<img src="https://lanyard-profile-readme.vercel.app/api/272459309227442176?theme=dark&bg=151515&animated=false&hideDiscrim=false&borderRadius=30px&hideStatus=true&idleMessage=VPS Seller%20and%20Coding" align="right" height="220px"/>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=miyufi&hide_border=true&bg_color=151515&color=fff&line=8a00f2&point=8a00f2&radius=30"/>
 ## Tools / Languages:
 
 These are the tools and languages that I have worked with and have experience about using them.
