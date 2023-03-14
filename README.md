@@ -17,7 +17,7 @@
 <hr/>
 <br/>
 ## About Me:
-<img src="https://lanyard-profile-readme.vercel.app/api/272459309227442176?theme=tokyonight&bg=1a1b27&animated=false&hideDiscrim=false&borderRadius=30px&hideStatus=true&idleMessage=VPS%20Seller%20and%20Coding" align="right" height="220px"/>
+<img src="https://lanyard-profile-readme.vercel.app/api/272459309227442176?theme=tokyonight&bg=1a1b27&animated=false&hideDiscrim=false&borderRadius=30px&hideStatus=true&idleMessage=VPS%20Seller%20and%20Coding" align="center" height="220px"/>
 
 ## Tools / Languages:
 
